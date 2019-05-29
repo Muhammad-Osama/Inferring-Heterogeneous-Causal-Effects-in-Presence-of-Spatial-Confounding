@@ -7,11 +7,16 @@ The folder 'supporting functions' contain the utility function in MATLAB script 
 ![cosine_gamma_1D_our_model](https://user-images.githubusercontent.com/37805794/58564645-9ebf7f00-822d-11e9-80bd-9d61e4060ba7.png)
 
 # Real Data 
-Outcome y: number of crimes
-Exposure z: number of poor families
-Space s: state index s = {1,...,50}
+Outcome y: number of crimes\\
+
+Exposure z: number of poor families\\
+
+Space s: state index s = {1,...,50}\\
+
 Data source: U.S. Census Bureau year 2000
 
 The figures below shows the estimated effect $\widehat{\tau}(s)$ in different states of U.S. and a plot of its significance level at 5% level.
 
 ![US_poverty_on_crime](https://user-images.githubusercontent.com/37805794/58567005-d6c8c100-8231-11e9-86e0-3a99732ed502.png)
+
+![US_poverty_on_crime_significance](https://user-images.githubusercontent.com/37805794/58567272-5bb3da80-8232-11e9-9430-a62d4581a4b1.png)
