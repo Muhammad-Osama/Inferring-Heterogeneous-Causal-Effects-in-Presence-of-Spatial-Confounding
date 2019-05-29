@@ -1,2 +1,2 @@
 # Inferring-Heterogeneous-Causal-Effects-in-Presence-of-Spatial-Confounding
-CODE TO BE UPLOADED SOON
+Given a scalar outcome of interest $y$ and a scaler exposure variable $z$, which have been collected over space $s$ so that the observed data in D={y_i,z_i,s_i}_{i=1}^{n}, the code allows to estimate the causal effect $\tau$ of $z$ on $y$ while mitigating for spatial confounding caused by other unobserved spatially varying variable $c$.  
