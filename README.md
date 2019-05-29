@@ -4,7 +4,7 @@ Given a scalar outcome of interest $y$ and a scaler exposure variable $z$, which
 # Functions
 The folder 'supporting functions' contain the utility function in MATLAB script while their use is demostrated by the script 1d_cosine_effect.m. Running the script produces the plot below which show the true effect $\tau(s)$, its estimate $\widehat{\tau}(s)$ and the $95\%$ bootstrap confidence interval (CI). For description of input and output of each function, kindly read the comments in the function definitions.
 
-![cosine_gamma_1D_our_model](https://user-images.githubusercontent.com/37805794/58567484-b5b4a000-8232-11e9-8af0-efbe61a9f15f.png)
+![cosine_gamma_1D_our_model](https://user-images.githubusercontent.com/37805794/58567665-05936700-8233-11e9-8c11-ed357e0feacd.png)
 
 # Real Data 
 Outcome y: number of crimes\
