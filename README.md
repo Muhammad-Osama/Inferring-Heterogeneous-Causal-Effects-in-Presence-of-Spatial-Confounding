@@ -7,11 +7,11 @@ The folder 'supporting functions' contain the utility function in MATLAB script 
 ![cosine_gamma_1D_our_model](https://user-images.githubusercontent.com/37805794/58567665-05936700-8233-11e9-8c11-ed357e0feacd.png)
 
 # Real Data 
-Outcome y: number of crimes\
+Outcome y: number of crimes
 
-Exposure z: number of poor families\
+Exposure z: number of poor families
 
-Space s: state index s = {1,...,50}\
+Space s: state index s = {1,...,50}
 
 Data source: U.S. Census Bureau year 2000
 
